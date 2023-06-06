@@ -1,0 +1,4 @@
+As caracteristicas necessaria para tela de login são:
+local para o usuario inserir o dado utilizado no cadastro
+local para o usuario inserir a senha utilizada no cadastro
+local onde terá o botão login
